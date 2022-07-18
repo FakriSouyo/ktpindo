@@ -1,0 +1,15 @@
+AppEnterprise\project\ktp\DataController.class
+AppEnterprise\project\ktp\coba\Dummy.class
+AppEnterprise\project\ktp\DataJpaController.class
+AppEnterprise\project\ktp\coba\DummyJpaController.class
+AppEnterprise\project\ktp\exceptions\NonexistentEntityException.class
+AppEnterprise\project\ktp\Data.class
+AppEnterprise\project\ktp\coba\exceptions\PreexistingEntityException.class
+AppEnterprise\project\ktp\exceptions\PreexistingEntityException.class
+AppEnterprise\project\ktp\coba\Dummy_.class
+AppEnterprise\project\ktp\Application.class
+AppEnterprise\project\ktp\coba\exceptions\NonexistentEntityException.class
+AppEnterprise\project\ktp\coba\exceptions\IllegalOrphanException.class
+AppEnterprise\project\ktp\coba\DummyController.class
+AppEnterprise\project\ktp\exceptions\IllegalOrphanException.class
+AppEnterprise\project\ktp\Data_.class
